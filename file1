@@ -1,5 +1,9 @@
 this is a file,
 need to add this file into git repo
+<<<<<<< HEAD
 The file is added to git succesfully
 again commited
 fdsdfsdfsdfdfd
+=======
+
+>>>>>>> parent of 6622455 (content added to file1)
